@@ -1,6 +1,17 @@
 # Dash Stem Head
 
 Dash is a compact STEM toy shaped like a robot head. It includes a NeoPixel ring, motion sensor, speaker, microphone, and four buttons.
+---
+## Gallery
+
+3d render:
+<img width="726" height="726" alt="Untitled" src="https://github.com/user-attachments/assets/3aeea935-03bc-4f0b-bd3c-0ca0e9fda41f" />
+
+Schematics:
+<img width="3000" height="3260" alt="circuit_image (3)" src="https://github.com/user-attachments/assets/8aae4814-d6af-4e10-ba98-9f98607f5c97" />
+
+Real photos:
+
 
 ## Why we built it
 
@@ -30,6 +41,10 @@ You can program Dash yourself. The current preprogrammed modes include:
 - Button 1: replays audio captured from the microphone and visualizes volume on the LED ring. Warning: this mode may produce echo.
 - Button 2: activates lightsaber mode. The MPU6050 detects motion and the speaker plays synthesized saber sounds while the NeoPixel ring lights respond to movement.
 - Button 3: visualizes live microphone input on the NeoPixel ring.
+
+## Firmware
+
+The code works without any changes but if you want to add custom modes or other features you can always modify the code or maybe even create a pull request or remix (Code can be found at firmware/arduino.ino)
 
 ## Notes
 
