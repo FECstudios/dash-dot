@@ -376,7 +376,7 @@ Today i created schematics on both circit designer and kicad for our project. Le
 
 ## Entry 21
 - ID: 16193
-- Author: derinozel5
+- Author: D_R1N
 - Created At: 2026-06-25
 - Time Tracked: 43:49
 
@@ -394,7 +394,7 @@ Today I worked on the schematics for Dash continuing on from my friend. I also c
 
 ## Entry 22
 - ID: 16194
-- Author: derinozel5
+- Author: D_R1N
 - Created At: 2026-06-25
 - Time Tracked: 2:31:04
 
