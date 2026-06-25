@@ -364,7 +364,7 @@ On this day, i tried to create 3d renders of the project in blender as suggested
 
 ### Content
 
-Today i created schematics on both circit designer and kicad for our project. Learned doing kicad and more during this
+Today i created schematics on both circit designer and kicad for our project. Learned doing kicad and many more during this
 
 ![image.png](https://cdn.hackclub.com/019efe24-459c-7def-a592-69e137b7d1d4/image.png)
 
@@ -372,3 +372,40 @@ Today i created schematics on both circit designer and kicad for our project. Le
 ### Recording Links
 
 - https://lapse.hackclub.com/timelapse/OPPbuqRWsLTf
+
+
+## Entry 21
+- ID: 16193
+- Author: derinozel5
+- Created At: 2026-06-25
+- Time Tracked: 43:49
+
+### Content
+
+Today I worked on the schematics for Dash continuing on from my friend. I also continued working on the poster/zine design, refining the layout and adding more content to better showcase the project.
+![image.png](https://cdn.hackclub.com/019efe76-ff8d-7067-844e-49b576c7c967/image.png)
+
+### Recording Links
+
+- https://lapse.hackclub.com/timelapse/G1jU43AM4Kc-
+- https://lapse.hackclub.com/timelapse/ZTGVyHitSHOW
+
+---
+
+## Entry 22
+- ID: 16194
+- Author: derinozel5
+- Created At: 2026-06-25
+- Time Tracked: 2:31:04
+
+### Content
+
+Today we met up at my place and made more progress on Dash. We worked on soldering the components together and continued improving the hardware. It was great to have a hands-on session and see everything coming together in person.
+
+![image.png](https://cdn.hackclub.com/019efe75-6225-7097-a902-3c1ed84b82d8/image.png)
+
+### Recording Links
+
+- https://lapse.hackclub.com/timelapse/alk48kK75n0u
+- https://lapse.hackclub.com/timelapse/gF1P-EwS0X48
+- https://lapse.hackclub.com/timelapse/K613aCFaGsmd
