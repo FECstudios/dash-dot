@@ -98,7 +98,7 @@ Today i finally found and bought the cheapest parts i could find with the help o
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/bbd2e295-f325-42a1-8050-ed7d20f0047c/video.mp4
-![image.png]([https://cdn.hackclub.com/019efdf3-0a95-70d9-85f8-68f13d9e96fc/image.png](https://cdn.hackclub.com/019efdf6-800a-7700-833e-e4173f1c683d/image.png))
+![image.png](https://cdn.hackclub.com/019efdf6-800a-7700-833e-e4173f1c683d/image.png)
 
 
 ## Entry 6
