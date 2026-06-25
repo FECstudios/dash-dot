@@ -36,14 +36,6 @@ As today i have been informed that the components for my previous project have b
 ### Content
 
 Hello everyone today i started by smoothing up the design i was working on then continued by adding button holes,buttons , more led holes, battery area and a battery holder
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/hqs65w1n8ct3cmahup5ou42oknqf?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T084019Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=81335f34421564f33e6fc32bbf316a2237cd11b428840c15c74fa03a3dd92d25)
-top view:
-
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/jk5g6bo6kmx90tvv6bqppa4xf3m1?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T084129Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=7df61a805221d40d8fab77b63733474d23dae7d527f71e0d2645ec68fd59b899)
-
-The inside (currently)
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/1ru3xbugdtghouzrum0410vd18gf?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T084137Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d00142e035051765f72b6bcf7f20df8008f811e2392873902c1ed8bd13b366ec)
-
 
 
 ### Recording Links
@@ -61,7 +53,6 @@ The inside (currently)
 ### Content
 
 Continued to improve up on the design added more ways to connect the 2 parts, added a speaker area, and finished the button assembly process and printed the buttons
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/bu029s1ww3qiutu6x0glje29yqwc?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T084319Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=87cc774414edc6e952e76e98849b7dc2706ff11709a685e78599346b41bacb28)
 
 
 
@@ -84,7 +75,6 @@ Today I finished wiring up the components in Wowki. It took a bit of patience to
 
 After that I started on the code. Right now it’s just the basics  setting things up and checking that the components actually respond  nothing impressive yet, but it’s a start.
 
-![WhatsApp Image 2026-06-11 at 22.03.49.jpeg](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/9pv3zl9uewcw4ld4lkkcsk2te3f4?response-content-disposition=inline%3B%20filename%3D%22WhatsApp%20Image%202026-06-11%20at%2022.03.49.jpeg%22%3B%20filename%2A%3DUTF-8%27%27WhatsApp%2520Image%25202026-06-11%2520at%252022.03.49.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T084512Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=37b61128ce87fe75dadd3105cefa696f6fb7297e730f4781de285e827c5d023f)
 
 
 ### Recording Links
@@ -104,9 +94,6 @@ After that I started on the code. Right now it’s just the basics  setting thin
 
 Today i finally found and bought the cheapest parts i could find with the help of gemini for the project. Added a holder to MAX98357 and added the buttons to their holders
 
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/66f0xs06439qms7g0o48f2l52j0a?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T084634Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=7bafbc91f12edea0c30613d851db1c41f038139cbced914dfa33c087cc8b8c7a)
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/fh5kwnkl60k7xbh0bt7i2vmyshn7?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T084644Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=60813220b7ff83e88cefe614ab34f636d64c8b3b832999c12cab6d50daaeab3f)
-
 
 ### Recording Links
 
@@ -123,7 +110,6 @@ Today i finally found and bought the cheapest parts i could find with the help o
 ### Content
 
 Met up with my friend today and made more progress on Dash. We worked on the KiCad design, updated the 3D model, printed a new version, and ran some tests. It was great to finally try things in the real world and spot a few improvements for the next revision.
-![WhatsApp Image 2026-06-11 at 22.03.49.jpeg](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/2dhhb3ot7xynj44hvm9easms8jju?response-content-disposition=inline%3B%20filename%3D%22WhatsApp%20Image%202026-06-11%20at%2022.03.49.jpeg%22%3B%20filename%2A%3DUTF-8%27%27WhatsApp%2520Image%25202026-06-11%2520at%252022.03.49.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T084753Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=cb0cd742e2c7b7d1fa84ad1217d07fb037e933f91a49af8efa86d45f95a33dc8)
 
 
 
@@ -141,8 +127,6 @@ Met up with my friend today and made more progress on Dash. We worked on the KiC
 ### Content
 
 Made more progress on Dash today. I continued working on the soldering, while Kuzey refined the design and added connectors to improve assembly. After finishing the changes, He sent the updated version for a test print to check the fit and overall design.
-![WhatsApp Image 2026-06-12 at 12.27.55.jpeg](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/8hdeqy4fwnbj0lg4muo2kbys1wwj?response-content-disposition=inline%3B%20filename%3D%22WhatsApp%20Image%202026-06-12%20at%2012.27.55.jpeg%22%3B%20filename%2A%3DUTF-8%27%27WhatsApp%2520Image%25202026-06-12%2520at%252012.27.55.jpeg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T085124Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=89bef64121924988f9e724bea499e90fe7cadaeea7c5024a74f464b66555b009)
-
 
 ### Recording Links
 
@@ -161,7 +145,6 @@ Made more progress on Dash today. I continued working on the soldering, while Ku
 ### Content
 
 Today I started designing the zine for Project Dash. Most of my time went into planning the layout, gathering content, and trying out different design ideas. It's still in the early stages, but I'm happy with the direction it's heading.
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/6tpovodkso1kd6n7n3ahxeuzc1zg?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T085228Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=e0e38b1d0b58e8b2491c3987189a62f07773ec1a0f8dc1771443387b0b29689b)
 
 
 ### Recording Links
@@ -182,14 +165,6 @@ Today i ordered an additional microphone module with my previous order to implem
 
 Also designed a holder for the head which looks perfect in my opinion and added fins to make it connect and disconnect with the head and a nonslip function thanks to the tpu under it
 
-Holder:
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/tgu8b61ggfj0ujmo8zvjxjz3m8sr?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T085410Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d8f34e0f9c7046146cb0857dce4e5f63a65d78dd77b204da4c67f65a4e3bc2e1)
-
-Fully finished and colored model 😍
-
- 
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/r8vsbg6bmdqqz3nbb8ja57bm6s1t?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T085411Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=e8ff25d9c975cc4d6c4b165a277658a1523c0ef6151ae40074bb1c5a59224934)
-
 
 ### Recording Links
 
@@ -209,7 +184,7 @@ Fully finished and colored model 😍
 ### Content
 
 Today I met up with Kuzey at his house to keep working on Dash. I continued with the soldering and spent some time improving the design as well. We also assembled the 3D printed parts I brought and checked how everything fit together. It was great to finally see some of the physical components coming together and getting closer to a working prototype.
-![WhatsApp Image 2026-06-14 at 21.05.54.jpeg](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzMzNzYsInB1ciI6ImJsb2JfaWQifX0=--2ace220f2563eb543e9af01c2de350cd1a22e79c/WhatsApp Image 2026-06-14 at 21.05.54.jpeg)
+
 
 
 ### Recording Links
@@ -227,7 +202,6 @@ Today I met up with Kuzey at his house to keep working on Dash. I continued with
 ### Content
 
 Today i continued to work on the zine/poster design of dash. I added a few technical drawings, render of the finished design and i also experimented with different design concepts.
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/1vxt2xysgywtfbnsoceuwzhan4uu?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T085733Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=27c87b2d5cdf0e7355594df73830827821bc1d48de36bade973900d7ffee1800)
 
 
 ### Recording Links
@@ -246,7 +220,6 @@ Today i continued to work on the zine/poster design of dash. I added a few techn
 
 Today finally the parts arrived and i started building the final product. First of all i made sure all the buttons were working since few of them were jammed. After getting the parts i created schematics using ms paint and soldered the audio amplifier and the speaker i extracted from my toy guitar.
 
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/qqa0bp3mkodek5o67krwcegivpe4?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T085924Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=6fabe67e79929a2a5a52381d6071efb0cc4efbe63c17727ba26c3939df22a3bc)
 
 
 ### Recording Links
@@ -265,7 +238,6 @@ Today finally the parts arrived and i started building the final product. First 
 
 ### Content
 
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/6u6oiowtgogoafiq893db55i1985?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T090009Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=334d778b01da72e50e606e19f1f7229dfc56b39faf8364d45e1411a6a5f7b5f6)
 Today I spent most of my time soldering for Dot Dash. I connected several components and made good progress on the hardware side of the project. While there is still some work left, most of the soldering is now complete.
 
 ### Recording Links
@@ -282,7 +254,6 @@ Today I spent most of my time soldering for Dot Dash. I connected several compon
 
 ### Content
 
-![Ekran görüntüsü 2026-06-18 125848.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/rp98o4l34mdal0pbm18luaqcbuac?response-content-disposition=inline%3B%20filename%3D%22Ekran%20goruntusu%202026-06-18%20125848.png%22%3B%20filename%2A%3DUTF-8%27%27Ekran%2520g%25C3%25B6r%25C3%25BCnt%25C3%25BCs%25C3%25BC%25202026-06-18%2520125848.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T090146Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=1a2df6d4dfa739988d673efa6d6493e841476a266dc2a7c71fd61e73e14db706)
 Today I focused on documentation and hardware for Dash. I completed the soldering work for the current prototype and organized the components needed for assembly. I also created the BOM to clearly document all required parts and their specifications. Finally, I wrote the project README to make setup, usage, and development easier for future. These improvements should help with the shipping of the project.
 
 
@@ -302,7 +273,7 @@ Today I focused on documentation and hardware for Dash. I completed the solderin
 ### Content
 
 Today,  I finished most of the soldering work, while Kuzey came over and worked on the software side of the project. Hardware and software are finally starting to come together. 
-![image.png]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzYyNTAsInB1ciI6ImJsb2JfaWQifX0=--c499f08ce63d3e40e68aed1ddd1ef4c3099a7a34/image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/myuovuybr2d6rjwqeuowmqi1c418?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T090258Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=6ac6d3d5a0302025652001b0d9fffb245e328b01500879e79c0b4dc6e4029c3a))
+
 
 
 ### Recording Links
@@ -322,7 +293,6 @@ Today,  I finished most of the soldering work, while Kuzey came over and worked 
 ### Content
 
 Today was a productive day on the dash robot project! I spent most of the time soldering, and I’m happy to say we finally moved into the testing phase. Kuzey and I ran some initial checks on the components, and while we hit a few snags, we managed to do some effective troubleshooting together to get things back on track
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/ln2pl9tlhhqk84ke7iege60qfvoz?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T090354Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=0a92fd99cdc7cb17c41c93bd80d0a1a2e23a27aac55cd47d12ac4aff34cd41a7)
 
 
 ### Recording Links
@@ -342,7 +312,6 @@ Today was a productive day on the dash robot project! I spent most of the time s
 
 Today i did more soldering on the dash robot after getting the newly soldered parts from derin and gave up after some point
 
-![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/o58up6p7ov404ykd8egblv9hg39s?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T090624Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d8afbb1d22f915db74472612d0d24dc1f627c781b919931a33ce54de902abc89)
 
 
 ### Recording Links
@@ -360,7 +329,6 @@ Today i did more soldering on the dash robot after getting the newly soldered pa
 ### Content
 
 On this day, we worked on the code of the dash, making it have multiple modes like megaphone, lightsaber mode and more!
-![image.png]([/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzk0NDMsInB1ciI6ImJsb2JfaWQifX0=--981cc21a1fb12344a8771fff980cfa8a05295a53/image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/xhdc33bqc1tvzrvjj8sbpu7r7sl4?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T090711Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=a69965a1b630b99d2ccac3af7e36a8547adbee17a65338c5310dfa710217ad65))
 
 
 ### Recording Links
