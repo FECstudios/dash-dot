@@ -81,7 +81,7 @@ After that I started on the code. Right now it’s just the basics  setting thin
 
 - https://lookout.hackclub.com/api/media/79b53922-fbc4-4d87-9466-471e169d1924/video.mp4
   
-![image.png]([https://cdn.hackclub.com/019efdf3-0a95-70d9-85f8-68f13d9e96fc/image.png](https://cdn.hackclub.com/019efdf3-e2c5-74fe-bee1-bd8a6673fdda/image.png))
+![image.png](https://cdn.hackclub.com/019efdf3-e2c5-74fe-bee1-bd8a6673fdda/image.png)
 
 
 ## Entry 5
@@ -366,7 +366,7 @@ On this day, i tried to create 3d renders of the project in blender as suggested
 
 Today i created schematics on both circit designer and kicad for our project. Learned doing kicad and more during this
 
-![image.png](https://cdn.hackclub.com/019efe1f-7a9b-78be-b776-0a27b29b3d6c/image.png)
+![image.png](https://cdn.hackclub.com/019efe24-459c-7def-a592-69e137b7d1d4/image.png)
 
 
 ### Recording Links
