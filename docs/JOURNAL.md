@@ -17,7 +17,7 @@ As today i have been informed that the components for my previous project have b
 
 
 ![image.png](https://cdn.hackclub.com/019efdd8-bc63-7173-9551-5cd4d3763a95/image.png)
-
+![image.png](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/3zz2no1ewqusrmpggmentqpbu8qi?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260625%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260625T081136Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=438855dbbc0488dd73a774b2d63a9d24ea678689a2c1996b1d65e4549518752b)
 
 
 ### Recording Links
