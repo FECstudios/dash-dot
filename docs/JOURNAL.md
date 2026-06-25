@@ -368,3 +368,39 @@ On this day, we worked on the code of the dash, making it have multiple modes li
 - https://lookout.hackclub.com/api/media/13960cd2-e7f4-48a3-b901-aa7fb9f4a553/video.mp4
 
 ![image.png](https://cdn.hackclub.com/019efe08-efea-7d88-931d-ebfcd2bc3999/image.png)
+
+## Entry 19
+- ID: 16193
+- Author: craftfec
+- Created At: 2026-06-25
+- Time Tracked: 1:20:46
+
+### Content
+
+On this day, i tried to create 3d renders of the project in blender as suggested in fallout, learned to use blender and created a decent render!
+![image.png](https://cdn.hackclub.com/019efe1f-7a9b-78be-b776-0a27b29b3d6c/image.png)
+
+
+### Recording Links
+
+- https://lapse.hackclub.com/timelapse/PudExdL5-qgO
+- https://lapse.hackclub.com/timelapse/jaUgNVGJJbRB
+- https://lapse.hackclub.com/timelapse/oFlW-0QBcspk
+- https://lapse.hackclub.com/timelapse/KdLNa61HCMzD
+
+## Entry 20
+- ID: 16193
+- Author: craftfec
+- Created At: 2026-06-25
+- Time Tracked: 1:37:00
+
+### Content
+
+Today i created schematics on both circit designer and kicad for our project. Learned doing kicad and more during this
+
+![image.png](https://cdn.hackclub.com/019efe1f-7a9b-78be-b776-0a27b29b3d6c/image.png)
+
+
+### Recording Links
+
+- https://lapse.hackclub.com/timelapse/OPPbuqRWsLTf
