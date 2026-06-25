@@ -1,8 +1,14 @@
-# Dash — Journal Export
+# Dash
 
 - Exported at: 2026-06-25T08:08:09Z
 - Project ID: 4332
-- Entries: 18
+- Entries: 22
+- Exported from fallout and recorded via lookout
+
+Message to the Horizons team:
+
+If you could count the hours filmed via lookout it would mean a lot we tried to transfer this project from Fallout to Horizons due to visa reasons (the project has not been submitted to Fallout)
+
 
 ## Entry 1
 - ID: 12557
