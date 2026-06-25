@@ -1,13 +1,12 @@
-Part name,Quantity,Price,Link
-4 Pin Push Button - Black (6x6x5mm),5,2.08 TL,https://www.robotistan.com/4-pinli-push-buton-siyah-6x6x5mm?language=tr&h=9e15604e
-ESP32 C3 Super Mini,1,365,65 TL,https://www.trendyol.com/genel-markalar/esp32-c3-super-mini-gelistirme-karti-wifi-bluetooth-type-c-usb-160mhz-4mb-flash-400kb-psram-p-809775652?choicennenabled=false&boutiqueId=61&merchantId=979702&gads=true
-MPU6050 6 Axis Acceleration and Gyro Sensor,1,123.15 TL,https://www.robotistan.com/mpu6050-6-eksen-ivme-ve-gyro-sensoru-6-dof-3-axis-accelerometer-and-gyros?language=tr&h=54acc034
-WS2812B Neopixel Ring Led,1,83 TL,https://www.robo90.com/ws2812b-neopixel-halka-led-12-bit-50mm?srsltid=AfmBOorqYXf0xyoEsVlgpcKtM8zvFa_lfBDAcYEpFWsvN_EwvG4wzCRn2_A
-MAX98357A I2S 3W Amplificator,1,126.96 TL,https://www.robo90.com/max98357-i2s-3w-amplifikator-modulu?srsltid=AfmBOopSXG6Eq_rN8_9Dfuse3-sAyLs6ueD-TE-bjx0gzMP8kTEHp-OvDzI
-TP4056 Lityum Pil charging module- 5V/1A - TYPE C,1,16.56 TL,https://www.robo90.com/tp4056-lityum-pil-sarj-modulu-5v-1a-type-c?srsltid=AfmBOoqmRKbC7pgruNeKzub45isgEfutWViW2HfnZ8axbo94kmhWRAtQ9LM
-3.7v | 1800 mAh | 14500 | Li-ion | Battery,1,429.00 TL,https://www.trendyol.com/voltify-enerji/3-7v-1800-mah-14500-li-ion-oyuncak-araba-pili-p-831832503
-Speaker 8 ohm 1W 45mm,1,50.76 TL,https://www.motorobit.com/hoparlor-8ohm-1w-45mm
-WS2812B Adreslenebilir Led,2,5.40 TL,https://www.robolinkmarket.com/ws2812b-adreslenebilir-led?srsltid=AfmBOorBPFG4Z-glm9MIIAJLKXe46Bc7V93N_r5HsUFSudbunoEFrgox
-Omnidirection Microphone Module,1,138.00 TL,https://robiz.net/inmp441?search=mikrofon&description=true
-
-TOTAL: **1354.28 TL**
+Part name,Quantity,Price (TL),Link
+4 Pin Push Button - Black (6x6x5mm),5,2.08,[https://www.robotistan.com/4-pinli-push-buton-siyah-6x6x5mm?language=tr&h=9e15604e](https://www.robotistan.com/4-pinli-push-buton-siyah-6x6x5mm?language=tr&h=9e15604e)
+ESP32 C3 Super Mini,1,365.65,[https://www.trendyol.com/genel-markalar/esp32-c3-super-mini-gelistirme-karti-wifi-bluetooth-type-c-usb-160mhz-4mb-flash-400kb-psram-p-809775652?choicennenabled=false&boutiqueId=61&merchantId=979702&gads=true](https://www.trendyol.com/genel-markalar/esp32-c3-super-mini-gelistirme-karti-wifi-bluetooth-type-c-usb-160mhz-4mb-flash-400kb-psram-p-809775652?choicennenabled=false&boutiqueId=61&merchantId=979702&gads=true)
+MPU6050 6 Axis Acceleration and Gyro Sensor,1,123.15,[https://www.robotistan.com/mpu6050-6-eksen-ivme-ve-gyro-sensoru-6-dof-3-axis-accelerometer-and-gyros?language=tr&h=54acc034](https://www.robotistan.com/mpu6050-6-eksen-ivme-ve-gyro-sensoru-6-dof-3-axis-accelerometer-and-gyros?language=tr&h=54acc034)
+WS2812B Neopixel Ring Led,1,83.00,[https://www.robo90.com/ws2812b-neopixel-halka-led-12-bit-50mm?srsltid=AfmBOorqYXf0xyoEsVlgpcKtM8zvFa_lfBDAcYEpFWsvN_EwvG4wzCRn2_A](https://www.robo90.com/ws2812b-neopixel-halka-led-12-bit-50mm?srsltid=AfmBOorqYXf0xyoEsVlgpcKtM8zvFa_lfBDAcYEpFWsvN_EwvG4wzCRn2_A)
+MAX98357A I2S 3W Amplificator,1,126.96,[https://www.robo90.com/max98357-i2s-3w-amplifikator-modulu?srsltid=AfmBOopSXG6Eq_rN8_9Dfuse3-sAyLs6ueD-TE-bjx0gzMP8kTEHp-OvDzI](https://www.robo90.com/max98357-i2s-3w-amplifikator-modulu?srsltid=AfmBOopSXG6Eq_rN8_9Dfuse3-sAyLs6ueD-TE-bjx0gzMP8kTEHp-OvDzI)
+TP4056 Lityum Pil charging module- 5V/1A - TYPE C,1,16.56,[https://www.robo90.com/tp4056-lityum-pil-sarj-modulu-5v-1a-type-c?srsltid=AfmBOoqmRKbC7pgruNeKzub45isgEfutWViW2HfnZ8axbo94kmhWRAtQ9LM](https://www.robo90.com/tp4056-lityum-pil-sarj-modulu-5v-1a-type-c?srsltid=AfmBOoqmRKbC7pgruNeKzub45isgEfutWViW2HfnZ8axbo94kmhWRAtQ9LM)
+3.7v | 1800 mAh | 14500 | Li-ion | Battery,1,429.00,[https://www.trendyol.com/voltify-enerji/3-7v-1800-mah-14500-li-ion-oyuncak-araba-pili-p-831832503](https://www.trendyol.com/voltify-enerji/3-7v-1800-mah-14500-li-ion-oyuncak-araba-pili-p-831832503)
+Speaker 8 ohm 1W 45mm,1,50.76,[https://www.motorobit.com/hoparlor-8ohm-1w-45mm](https://www.motorobit.com/hoparlor-8ohm-1w-45mm)
+WS2812B Adreslenebilir Led,2,5.40,[https://www.robolinkmarket.com/ws2812b-adreslenebilir-led?srsltid=AfmBOorBPFG4Z-glm9MIIAJLKXe46Bc7V93N_r5HsUFSudbunoEFrgox](https://www.robolinkmarket.com/ws2812b-adreslenebilir-led?srsltid=AfmBOorBPFG4Z-glm9MIIAJLKXe46Bc7V93N_r5HsUFSudbunoEFrgox)
+Omnidirection Microphone Module,1,138.00,[https://robiz.net/inmp441?search=mikrofon&description=true](https://robiz.net/inmp441?search=mikrofon&description=true)
+TOTAL,,1354.28,
