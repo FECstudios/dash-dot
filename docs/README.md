@@ -17,7 +17,7 @@ Dash is a compact STEM toy shaped like a robot head. It includes a NeoPixel ring
 ---
 
 # Real Photos
-<img src="https://cdn.hackclub.com/019efe76-ff8d-7067-844e-49b576c7c967/image.png" width="450"/>
+<img src="https://cdn.hackclub.com/019efe8c-a1a7-7eda-b523-a54bf9585839/image.png" width="450"/>
 
 </div>
 
