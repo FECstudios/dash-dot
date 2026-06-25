@@ -15,8 +15,9 @@ Hey everyone today i started working on the new project called dash which will b
 As today i have been informed that the components for my previous project have been rejected from my supplier so unfortunately i cannot put the battery in it.
 
 
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NDEsInB1ciI6ImJsb2JfaWQifX0=--7328eb5a72bb372ccd5fdf1369859b82c317eeca/image.png)
-![image.png](/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk1NDIsInB1ciI6ImJsb2JfaWQifX0=--fef30071cdeb95f17294850a97bfe7e3d73c7d7f/image.png)
+
+![image.png](https://cdn.hackclub.com/019efdd8-bc63-7173-9551-5cd4d3763a95/image.png)
+
 
 
 ### Recording Links
