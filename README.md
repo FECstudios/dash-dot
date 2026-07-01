@@ -44,7 +44,7 @@ The enclosure is designed in Fusion 360 and 3D printed in PLA. The electronics a
 
 ## Bill of Materials (BoM)
 
-| Part | Qty | Approx. Cost (TL) | Purchase Link |
+| Part | Qty | Cost (TL) | Link |
 |------|----:|------------------:|---------------|
 | ESP32-C3 Super Mini | 1 | 365.65 | https://www.trendyol.com/genel-markalar/esp32-c3-super-mini-gelistirme-karti-wifi-bluetooth-type-c-usb-160mhz-4mb-flash-400kb-psram-p-809775652 |
 | MPU6050 6-Axis Accelerometer & Gyroscope | 1 | 123.15 | https://www.robotistan.com/mpu6050-6-eksen-ivme-ve-gyro-sensoru-6-dof-3-axis-accelerometer-and-gyros |
@@ -58,7 +58,6 @@ The enclosure is designed in Fusion 360 and 3D printed in PLA. The electronics a
 | WS2812B Addressable LED | 2 | 5.40 | https://www.robolinkmarket.com/ws2812b-adreslenebilir-led |
 | **Total Estimated Cost** |  | **₺1,354.28** | |
 
-> **Note:** Prices are approximate and may change over time depending on the supplier.
 
 
 ## Features
