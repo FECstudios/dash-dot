@@ -58,7 +58,14 @@ The enclosure is designed in Fusion 360 and 3D printed in PLA. The electronics a
 | WS2812B Addressable LED | 2 | 5.40 | https://www.robolinkmarket.com/ws2812b-adreslenebilir-led |
 | **Total Estimated Cost** |  | **₺1,354.28** | |
 
+## Steps to Reproduce
 
+1. Order all of the parts listed in the Bill of Materials.
+2. 3D print the parts from the `CAD/` folder.
+3. Assemble the electronics by following the schematic above.
+4. Open `firmware/arduino.ino` in the Arduino IDE.
+5. Select *ESP32-C3 Super Mini*, choose the correct port, and upload the firmware.
+6. Turn the device on and test each button, the LED ring, speaker, microphone, and motion sensor to make sure everything works.
 
 ## Features
 
